@@ -10,7 +10,7 @@ const Guiding = ({ setScaleCursor }) => {
             target: targetRef,
         });
 
-        const x = useTransform(scrollYProgress, [0, 1], ["0%", "-70%"]);
+        const x = useTransform(scrollYProgress, [0, 1], ["0%", "-90%"]);
         return (
             <section ref={targetRef} className='relative h-[200vh]'>
                 <div className='sticky top-0 h-screen overflow-hidden'>
