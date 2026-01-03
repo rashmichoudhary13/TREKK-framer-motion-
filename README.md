@@ -2,6 +2,6 @@
 
 It is an website demonstrating animation using framer-motion
 
-# Has Animation: 
+# Has Animation Like
 - Horizontall Scroll Animation
 - Staggering Animation
